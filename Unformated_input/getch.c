@@ -2,6 +2,6 @@
 char main ()
 {
 	char ch;
-	ch = getch ();
+	ch = getch();
 	printf("%c", ch);
 }
